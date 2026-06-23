@@ -1,0 +1,21 @@
+#hero{
+    background-color: #2E2F42;
+}
+#hero h1{
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    color: #FFFFFF;
+    letter-spacing: 0.02em;
+}
+#hero button{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: white;
+    background-color: #4D5AE5;
+}
+#hero button {
+    cursor: pointer;
+}
