@@ -1,38 +1,35 @@
-#header{
+header{
     font-family: "Roboto", sans-serif;
-    font-size: 24px;
     letter-spacing: 0.03em;
     line-height: 1.5;
 }
-#header nav a {
+.header-nav a {
     font-weight: 500;
     letter-spacing: 0.02em;
     color: #2E2F42;
     text-decoration: none; 
 }
-#header ul {
-    list-style-type: none;
-}
-#header .logo{
+.header.logo{
     font-family: "Raleway", sans-serif;
+    font-size: 18px;
     line-height: 1.3;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     font-weight: 700;
     text-decoration: none;
     color: #2E2F42;
 }
-#header .accent{
-    color: #4D5AE5;
-}
-#header address a{
+
+.header-address a{
     font-weight: 400;
     font-size: 16px;
+    font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
     text-decoration: none;
 }
-#header a:hover,
-#header a:focus {
-    color: red;
+header a:hover,
+header a:focus {
+    color:#404bbf;
 }
