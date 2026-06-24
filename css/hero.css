@@ -20,7 +20,7 @@ h1{
 .hero-button {
     cursor: pointer;
 }
-.hero-button:hover
+.hero-button:hover,
 .hero-button:focus{
     color: #404bbf;
 }
