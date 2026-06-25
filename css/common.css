@@ -26,6 +26,6 @@ p {
 ul {
     list-style-type: none;
 }
-span.accent {
+.accent {
     color: #4D5AE5;
 }
