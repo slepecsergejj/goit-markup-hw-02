@@ -1,9 +1,14 @@
-#team{
+.team-main{
     color: #2E2F42;
     background-color: #F4F4FD;
 }
-.team-main h2, h3, p{
+.team-main h2,
+.team-main h3 {
     text-align: center;
+}
+.team-main p {
+    text-align: center;
+    color: #434455;
 }
 .team-main li{
     background-color: #fff;
